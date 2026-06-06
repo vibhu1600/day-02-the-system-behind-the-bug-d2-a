@@ -59,6 +59,24 @@ Use the provided evidence to produce a concise incident reasoning brief that pro
 - what tradeoff you are accepting
 - how you verified or rejected AI / founder assumptions
 
+## Provided To Solve The Case
+
+- Student task drop
+- System overview
+- Architecture map
+- Startup context
+- Business constraints
+- Incident timeline
+- Team roles
+- Assigned D2-A evidence pack
+
+## Outcome Artifacts You Get
+
+- Failure Propagation Analysis
+- Incident Reasoning Brief
+- Incident Prioritization Artifact
+- Systems Defense Video
+
 ## Files Provided
 
 Read the shared scenario package:
