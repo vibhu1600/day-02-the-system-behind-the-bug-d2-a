@@ -106,6 +106,8 @@ Submit only:
 Use:
 
 - [Incident Reasoning Brief Template](./submission-templates/incident-reasoning-brief-template.md)
+- [Failure Propagation Analysis Template](./submission-templates/failure-propagation-analysis-template.md)
+- [Incident Prioritization Artifact Template](./submission-templates/incident-prioritization-artifact-template.md)
 - [Defense Video Instructions](./submission-templates/system-defense-video-guide.md)
 - [Submission Guide](./student-instructions/submission-guide.md)
 
