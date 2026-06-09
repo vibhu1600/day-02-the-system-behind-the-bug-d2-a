@@ -1,3 +1,18 @@
+# Day 2 — The System Behind The Bug
+
+**Student:** Vibhut Vishal Uttarde
+**Variant:** D2-A — Database Write Latency
+**College:** Vidyalankar Polytechnic
+**Branch/Year:** Information Technology / 3rd Year
+
+## Submission
+- Incident Analysis Report (PDF)
+- 4-Minute System Defense Video
+
+## Original Challenge
+https://github.com/TheCareerForge/day-02-the-system-behind-the-bug-d2-a
+
+
 # CareerForge Day 2 V2 - The System Behind The Bug
 
 ## Product: Candidate Review Ops Incident
